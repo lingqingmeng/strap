@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@strapi/typescript-utils": "^5.33.2"
+  }
+}
